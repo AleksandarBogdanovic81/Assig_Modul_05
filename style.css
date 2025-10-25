@@ -1,0 +1,44 @@
+body {
+    background-color: #EAEAE2;
+}
+
+.prvi {
+    width: 800px;
+    background-color: #C8AEE8;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 20px 10px;
+}
+
+h1 {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-style: 700;
+    text-align: center;
+    margin: 0 0 50px 0;
+}
+
+p {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    hyphens: auto;
+}
+
+img {
+    float: left;
+    margin: 0 10px 0 0;
+}
+
+.paragraf {
+    margin: auto;
+}
+
+.clear {
+    clear: both;
+}
+
+.prebaci {
+    text-align: right;
+    text-decoration: underline;
+}
